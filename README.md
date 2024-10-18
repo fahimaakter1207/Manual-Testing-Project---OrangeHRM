@@ -2,6 +2,7 @@
 This repository contains a list of all the file's completed during my manual testing practice. The projects were completed using a combination of manual testing techniques.
 
 Project Name- Orange HRM (My Info Module)     
+Project link - https://opensource-demo.orangehrmlive.com/web/index.php/auth/login          
 Description- Tested a web application for functionality and usability 
 
 
